@@ -23,3 +23,4 @@ A weather data application that fetches real-time conditions from APIs like Open
 I am used visual studio code IDE for this project.
 
 ##output: 
+![Image](https://github.com/user-attachments/assets/de628436-3bae-4ed2-99b5-db4fa6bc4ada)
